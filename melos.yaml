@@ -1,0 +1,8 @@
+name: namer_app
+
+packages:
+  - packages/*
+
+scripts:
+  analyze:
+    exec: dart analyze .
